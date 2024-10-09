@@ -1,8 +1,8 @@
 [
   {
     "name": "Lunar",
-    "url": "https://lunar.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/lunar.xyz.ico",
+    "url": "https://lunarbot.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/lunarbot.xyz.ico",
     "slug": "lunar",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   }
 ]
