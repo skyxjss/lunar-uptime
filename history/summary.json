@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunarbot.xyz.ico",
     "slug": "lunar",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 510,
     "timeDay": 907,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
-    "dailyMinutesDown": {
-      "2024-10-11": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
