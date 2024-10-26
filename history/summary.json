@@ -4,19 +4,19 @@
     "url": "https://lunarbot.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/lunarbot.xyz.ico",
     "slug": "lunar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 488,
-    "timeWeek": 518,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 539,
+    "timeDay": 595,
+    "timeWeek": 541,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-26": 14
     }
   }
 ]
